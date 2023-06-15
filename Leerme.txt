@@ -1,0 +1,4 @@
+Usuario para Ingeniero
+
+user  admin
+contraseña   admin

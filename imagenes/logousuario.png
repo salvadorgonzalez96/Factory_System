@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="logologin">
+    <file>loginmanager_10029.ico</file>
+    <file>logousuario.qrc</file>
+  </qresource>
+</RCC>

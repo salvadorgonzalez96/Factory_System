@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="imagenes">
+    <file>fondoaplicacion.jpg</file>
+    <file>salirlogin.jpg</file>
+    <file>fondologin.jpg</file>
+    <file>Next_arrow_10211.ico</file>
+    <file>logousuario.png</file>
+    <file>loginmanager_10029.ico</file>
+  </qresource>
+</RCC>
